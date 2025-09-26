@@ -1,4 +1,4 @@
-# Copilot Instructions for Bike Sharing Data Science Project
+# Instructions for Bike Sharing Data Science Project
 
 ## Project Overview
 This project analyzes a synthetic bike sharing dataset for 90 days, focusing on time-series and regression analysis. The main file is a Jupyter notebook (`bike_sharing.ipynb`) containing all code, documentation, and visualizations.
